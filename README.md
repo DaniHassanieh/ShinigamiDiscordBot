@@ -1,1 +1,1 @@
-# DeathNoteDiscordBot
+# ShinigamiDiscordBot
